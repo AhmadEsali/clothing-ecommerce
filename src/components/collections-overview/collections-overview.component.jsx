@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/jsx-props-no-spreading */
 import React from 'react'
 import { connect } from 'react-redux'
 import {createStructuredSelector} from 'reselect';
